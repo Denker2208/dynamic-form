@@ -1,27 +1,28 @@
 {
-    "name": "wbraganca/yii2-dynamicform",
+    "name": "denker2208/dynamic-form",
     "description": "It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.",
     "keywords": [
-        "wbraganca",
+        "denker",
         "yii2",
         "extension",
         "widget",
         "yii2-dynamicform",
+        "dynamic-form",
         "copy DOM element",
         "yii2 dynamic form"
     ],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/wbraganca/yii2-dynamicform/issues",
-        "wiki": "https://github.com/wbraganca/yii2-dynamicform/wiki/",
-        "source": "https://github.com/wbraganca/yii2-dynamicform"
+        "issues": "https://github.com/Denker2208/dynamic-form/issues",
+        "wiki": "https://github.com/Denker2208/dynamic-form/wiki/",
+        "source": "https://github.com/Denker2208/dynamic-form"
     },
     "authors": [
         {
-            "name": "Wanderson Bragança",
-            "email": "wanderson.wbc@gmail.com",
-            "homepage": "http://wbraganca.com"
+            "name": "Denker0822",
+            "email": "lordweyder333@gmail.com",
+            "homepage": "https://github.com/Denker2208"
         }
     ],
     "require": {
@@ -31,7 +32,7 @@
     },
     "autoload": {
         "psr-4": {
-            "wbraganca\\dynamicform\\": "src"
+            "denker\\dynamicform\\": "src"
         }
     }
 }
